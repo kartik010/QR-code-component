@@ -19,8 +19,8 @@ This is a very basic css excersise of learning how to center a div inside other 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/kartik010/QR-code-component/blob/main/README.md)
+- Live Site URL: (https://kartik010.github.io/QR-code-component/)
 
 ## My process
 

@@ -43,7 +43,7 @@ body{
   border-radius: 5%;
   text-align: center;
 }
-@media (max-width:375px) {
+@media (max-width:575px) {
   .main{
     width: 70vw;
   }
